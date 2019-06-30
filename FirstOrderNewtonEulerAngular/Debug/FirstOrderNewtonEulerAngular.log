@@ -1,5 +1,0 @@
-﻿  main.cpp
-d:\profiles\njp2424\desktop\physics\advacned topics\physics-firstordernewton-eulerangular-mastervs2019\firstordernewtoneulerangular\main.cpp(337): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-d:\profiles\njp2424\desktop\physics\advacned topics\physics-firstordernewton-eulerangular-mastervs2019\firstordernewtoneulerangular\main.cpp(368): warning C4326: return type of 'main' should be 'int' instead of 'void'
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  FirstOrderNewtonEulerAngular.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\Advacned Topics\physics-firstOrderNewton-EulerAngular-masterVS2019\FirstOrderNewtonEulerAngular\Debug\FirstOrderNewtonEulerAngular.exe
